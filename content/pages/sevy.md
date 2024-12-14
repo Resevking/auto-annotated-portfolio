@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: THIS IS SEVERINX
-    subtitle: The section subtitle
+    subtitle: A COMPANY
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
